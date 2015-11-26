@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://134.192.114.41:9001/Rop/apk/LoveMarket.ipa</string>
+					<string>http://202.103.124.66:7095/Rop/apk/HNAppPallet.ipa</string>
 					<key>New item</key>
 					<string></string>
 				</dict>
@@ -19,13 +19,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chinatelecom.gansu.market</string>
+				<string>com.chinatelecom.hunan.zsx</string>
 				<key>bundle-version</key>
-				<string>V1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>即销即装</string>
+				<string>掌上销</string>
 			</dict>
 		</dict>
 	</array>
